@@ -1,0 +1,27 @@
+{
+  "version": "2.4.0-RC1",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "df",
+    "description": "df",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.0-RC1",
+        "cells": [],
+        "description": "d"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "df",
+    "threatTop": 0
+  }
+}
